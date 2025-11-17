@@ -4,6 +4,7 @@ A foreground service keeps tracking stable during screen-off to enable multitask
 Moreover, mode detection is implemented in order to identify the activity of the user based on the sensors values. 
 
 
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/05d5ad90-9268-4a9e-9b4d-3d73eae9f056" />
 <img width="300" alt="stationary" src="https://github.com/user-attachments/assets/a7571e95-2081-4cb2-adea-f6782d32ad51" />  <img width="300" alt="running"    src="https://github.com/user-attachments/assets/dfd7200d-3a54-4356-b740-e45f9bbb57e7" />
 
 Made with ❤ By Maor Mordo
